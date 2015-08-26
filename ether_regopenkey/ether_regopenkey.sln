@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ether_regopenkey", "ether_regopenkey\ether_regopenkey.vcxproj", "{D112F43C-EC76-42D6-ADCD-559A2E1DC673}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "dummy", "dummy\dummy.vcxproj", "{022F2C21-FAE7-4E7C-A460-34F894175D82}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "printf", "printf\printf.vcxproj", "{EA7F22AC-C373-495D-81D1-1BD07E6CB5D6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D112F43C-EC76-42D6-ADCD-559A2E1DC673}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D112F43C-EC76-42D6-ADCD-559A2E1DC673}.Debug|Win32.Build.0 = Debug|Win32
+		{D112F43C-EC76-42D6-ADCD-559A2E1DC673}.Release|Win32.ActiveCfg = Release|Win32
+		{D112F43C-EC76-42D6-ADCD-559A2E1DC673}.Release|Win32.Build.0 = Release|Win32
+		{022F2C21-FAE7-4E7C-A460-34F894175D82}.Debug|Win32.ActiveCfg = Debug|Win32
+		{022F2C21-FAE7-4E7C-A460-34F894175D82}.Debug|Win32.Build.0 = Debug|Win32
+		{022F2C21-FAE7-4E7C-A460-34F894175D82}.Release|Win32.ActiveCfg = Release|Win32
+		{022F2C21-FAE7-4E7C-A460-34F894175D82}.Release|Win32.Build.0 = Release|Win32
+		{EA7F22AC-C373-495D-81D1-1BD07E6CB5D6}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EA7F22AC-C373-495D-81D1-1BD07E6CB5D6}.Debug|Win32.Build.0 = Debug|Win32
+		{EA7F22AC-C373-495D-81D1-1BD07E6CB5D6}.Release|Win32.ActiveCfg = Release|Win32
+		{EA7F22AC-C373-495D-81D1-1BD07E6CB5D6}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

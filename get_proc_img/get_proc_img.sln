@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C++ Express 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "get_proc_img", "get_proc_img\get_proc_img.vcxproj", "{D654863E-0511-4B55-AC9A-63426523724F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D654863E-0511-4B55-AC9A-63426523724F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D654863E-0511-4B55-AC9A-63426523724F}.Debug|Win32.Build.0 = Debug|Win32
+		{D654863E-0511-4B55-AC9A-63426523724F}.Release|Win32.ActiveCfg = Release|Win32
+		{D654863E-0511-4B55-AC9A-63426523724F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
